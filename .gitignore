@@ -1,1 +1,5 @@
-
+.env.txt
+.gitignore
+.ipynb_checkpoints
+Important_info.txt
+study.ipynb
