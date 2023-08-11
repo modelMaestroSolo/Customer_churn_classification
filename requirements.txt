@@ -1,0 +1,4 @@
+Python-dotenv 
+pyodbc
+seaborn-qqplot
+imbalanced-learn
