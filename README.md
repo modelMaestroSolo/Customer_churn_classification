@@ -1,69 +1,34 @@
-### CLASSIFICATION PROJECT(CUSTOMER CHURN PREDICTION)
+## CLASSIFICATION PROJECT(CUSTOMER CHURN PREDICTION)
 ![store_sales_forcasting](https://www.cleartouch.in/wp-content/uploads/2022/11/Customer-Churn.png)
 
-Build classification model to perform church analysis for vodafone.
+#### Predicting Customer Churn for Enhanced Customer Retention
+In the fiercely competitive business landscape, companies strive to maximize their profits and revenue margins. One key area where industry players focus their resources is customer retention. Keeping existing customers happy and loyal is crucial for sustaining business growth and long-term success.
+The primary goal of this project is to build a robust machine-learning model that predicts customer churn with high accuracy. By identifying customers who are likely to churn, companies can proactively implement targeted retention strategies, reducing churn rates, and boosting customer loyalty.
 
-## Overview
+
+## Folder Structure
+
+- **data/raw**: Contains the three datasets. The first and last are the train sets, and the second is the test set.
+- **docs**: Contains extra information on the project.
+- **export**: Contains the trained model.
+- **src**: Contains the code notebook.
+- **requirements.txt**: Necessary packages and libraries to install.
+
+---
 
 ## Setup / Config
 
-## Images
-
-#Contributors
 
 
+#### Installation
 
+To set up this project, you'll need to install the necessary packages and libraries listed in the `requirements.txt` file. You can do this using `pip`:
 
-#### :rocket: Getting Started
-
-This section provides information on how to get started with the project.
-
-#### :page_facing_up: Description
-
-A brief description of your project and its purpose.
-
-#### :bar_chart: Datasets
-
-Information about any datasets used in your project, along with links or references.
-
-#### :hammer_and_wrench: Installation
-
-##### Requirements
-
-List the system or software requirements for your project.
-
-##### Setup
-
-Instructions for installing and configuring your project.
-
-Please go through [Documentation](#book-documentation) for more info.
-
-#### :mag: Usage
-
-Describe how to use your project, including code examples and usage scenarios.
-
-#### :zap: Features
-
-List and briefly describe the key features of your project.
-
-#### :bug: Known Issues
-
-Document any known issues or limitations of your project.
-
-#### :hammer: Contributing
-
-Information for contributors on how to contribute to the project.
-
-### :sparkles: Changelog
-
-Provide a summary of changes and version history.
-
-### :busts_in_silhouette: Contributors
-
-List the contributors to the project.
-
+```bash
+pip install -r requirements.txt
+```
+#### Contributors:
 + Alexianne Imanirakarama
 + Florence Affoh
 + Kabanda Safi
 + Philip Akornor
- 
